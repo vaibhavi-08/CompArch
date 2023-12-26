@@ -1,0 +1,3 @@
+C:/Users/vaibhavi/CLionProjects/riscv_pipeline_simulator/cmake-build-debug/CMakeFiles/riscv_pipeline_simulator.dir
+C:/Users/vaibhavi/CLionProjects/riscv_pipeline_simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vaibhavi/CLionProjects/riscv_pipeline_simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
